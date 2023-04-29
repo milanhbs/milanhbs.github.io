@@ -4,6 +4,3 @@
 [submodule "milan/vladimir"]
 	path = milan/vladimir
 	url = https://github.com/academicpages/academicpages.github.io
-[submodule "vladimir"]
-	path = vladimir
-	url = https://github.com/academicpages/academicpages.github.io
