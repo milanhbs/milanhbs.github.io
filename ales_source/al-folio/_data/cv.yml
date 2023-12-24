@@ -1,0 +1,38 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Milan H.B. Sobota
+    - name: Date of Birth
+      value: 1997
+    - name: Languages
+      value: German, English, Czech
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Oxford, Oxford, United Kingdom
+      year: 2023 - 2027
+      description:
+        - Interdisciplinary Biosciences BBSRC DTP
+    - title: MSc
+      institution: ETH Zurich, Basel, Switzerland
+      year: 2021 - 2023
+      description:
+        - Master's in Biotechnology
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: BSc
+      institution: RWTH Aachen
+      year: 2015 - 2019
+      description:
+        - Bachelor's in Molecular and Applied Biotechnology
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hiking, swimming, etc.
+
