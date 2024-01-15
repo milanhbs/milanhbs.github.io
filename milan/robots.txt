@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/milan/sitemap.xml
+Sitemap: https://sobota.gdn/milan/sitemap.xml
