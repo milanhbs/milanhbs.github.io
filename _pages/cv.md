@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This CV is work in progress. Go to my [LinkedIn](https://linkedin.com/in/milan-sobota) for details.
+description: This CV is work in progress. Go to my [LinkedIn](linkedin.com/in/milan-sobota) for details.
 toc:
   sidebar: left
 ---
