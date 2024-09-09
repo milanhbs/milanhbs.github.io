@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://milanhbs.github.io/sitemap.xml
+Sitemap: https://milan.sobota.gdn/sitemap.xml
