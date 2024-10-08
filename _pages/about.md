@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, I am Milan, interested in synthetic biology, precision health, and entrepreneurship. 
 
-I have just started my Interdisciplinary Bioscience DPhil at the Uni of Oxford, where I will be using my first year to find my research area. I am looking for a summer internship in the bay area, tell me if you know good people who could use a hand.
+I am in the Interdisciplinary Bioscience DPhil program at the Uni of Oxford, working with Kevin Foster on ecology and the microbiome. I am looking for an internship in the bay area, tell me if you know good people who could use a hand.
 
-I recently wrapped up my Master's at ETH in the <a href="https://bsse.ethz.ch/ctsb">Khammash lab</a>, where I built new molecular tools for synbio circuits based on CRISPR as my thesis work.
+Before that, wrapped up my Master's at ETH in the <a href="https://bsse.ethz.ch/ctsb">Khammash lab</a>, where I built new molecular tools for synbio circuits based on CRISPR as my thesis work.
 
 {% comment %}
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
